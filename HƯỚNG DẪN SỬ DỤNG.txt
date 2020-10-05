@@ -1,0 +1,6 @@
++ Con trợ lý ảo trên được mình xây dựng dựa trên con trợ lý ảo Alexa của Amazon. Tất nhiên vì là một con trợ lý ảo được xây dựng lại từ người đi trước nên chắc hẳn không tránh khỏi sai sót. Các bạn thông cảm bỏ qua cho mình nha ^^
++ Source code hoàn chỉnh nằm ở bên ngoài mang tên là AI.py dành cho bạn nào lười code lại hay lười biến tấu ha
++ Còn ai muốn tự mình thay đổi hay muốn thử sức hơn thì hãy vào phần "Từng phần" đề lấy source code từng phần mà "pha chế" lại theo cách riêng của bạn nha.
++ Ở trong phần code hoàn chỉnh, mỗi một phần mình đều có comment ở đầu phần đó cho mấy bạn nhận biết ùi đó nhoa ^^
+---Cảm ơn các bạn đã xem--- 
+^__^
